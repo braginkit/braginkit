@@ -1,5 +1,5 @@
 * 👋 Hi, I'm Nikita Bragin (25 y.o.)
-* * 👨🏻‍🎓 HSE MIEM graduate
+* 👨🏻‍🎓 HSE MIEM graduate
 * 🎓 HSE HSB student
 * 💻 Sber Domclick backend developer
 * 👀 I’m interested in web-programming, cloud and integration
