@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Nikita Bragin
-* 💻 Senior backend developer
-* 🌟 6 years of expirience
-* 👨🏻‍🎓 HSE MIEM graduate
-* 🎓 HSE HSB student
+* 💻 Senior backend developer with 6 years exp.
+* 👨🏻‍🎓 HSE MIEM - bachlor's degree in Computer Science
+* 🎓 HSE HSB - master's degree Digital Product Management
 * 👀 I’m interested in web-programming, cloud and integration
 * 📫 Reach me by telegram @bragin_kit or email bragin.kit@gmail.com
 
@@ -25,7 +24,9 @@
     srcset="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=braginkit&layout=compact&theme=default&langs_count=8&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true" />
+  <img
+    src="https://github-readme-stats-rouge-six-99.vercel.app/api/top-langs/?username=gvillo&layout=compact&theme=default&langs_count=8&count_private=true"
+  />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=braginkit)
